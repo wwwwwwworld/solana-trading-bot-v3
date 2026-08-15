@@ -1,7 +1,0 @@
----
-source: crates/race/src/goblin.rs
-expression: goblin.trinket_options()
-
----
-- Goblin
-

@@ -1,7 +1,0 @@
----
-source: crates/race/src/gith.rs
-expression: gith
-
----
-subrace: Githyanki
-

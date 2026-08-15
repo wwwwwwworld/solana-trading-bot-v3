@@ -1,7 +1,0 @@
----
-source: crates/background/src/city_watch.rs
-expression: background
-
----
-variant: Investigator
-

@@ -1,9 +1,0 @@
----
-source: crates/background/src/city_watch.rs
-expression: "CityWatch::skills()"
-
----
-- Athletics
-- Insight
-- Investigation
-

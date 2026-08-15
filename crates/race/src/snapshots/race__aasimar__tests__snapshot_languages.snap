@@ -1,8 +1,0 @@
----
-source: crates/race/src/aasimar.rs
-expression: aasimar.languages()
-
----
-- Common
-- Celestial
-

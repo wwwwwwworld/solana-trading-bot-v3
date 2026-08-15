@@ -1,8 +1,0 @@
----
-source: crates/class/src/wizard.rs
-expression: class.citations()
-
----
-- - Phb
-  - 112
-

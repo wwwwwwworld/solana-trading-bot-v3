@@ -1,7 +1,0 @@
----
-source: crates/race/src/tiefling.rs
-expression: tiefling.resistances()
-
----
-- Fire
-

@@ -1,9 +1,0 @@
----
-source: crates/class/src/paladin.rs
-expression: class.equipment()
-
----
-- item:
-    Armor: ChainMail
-  amount: 1
-

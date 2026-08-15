@@ -1,7 +1,0 @@
----
-source: crates/race/src/kobold.rs
-expression: kobold.attitude()
-
----
-- Lawful
-

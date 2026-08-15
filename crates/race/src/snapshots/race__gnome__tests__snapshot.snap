@@ -1,7 +1,0 @@
----
-source: crates/race/src/gnome.rs
-expression: gnome
-
----
-subrace: Forest
-

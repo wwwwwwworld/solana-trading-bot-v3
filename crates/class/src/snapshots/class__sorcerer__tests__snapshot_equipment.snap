@@ -1,9 +1,0 @@
----
-source: crates/class/src/sorcerer.rs
-expression: class.equipment()
-
----
-- item:
-    Weapon: Dagger
-  amount: 2
-

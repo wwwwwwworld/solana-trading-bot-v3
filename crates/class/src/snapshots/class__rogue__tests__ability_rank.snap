@@ -1,9 +1,0 @@
----
-source: crates/class/src/rogue.rs
-expression: "Rogue::ability_rank()"
-
----
-- - Dexterity
-- - Charisma
-  - Intelligence
-

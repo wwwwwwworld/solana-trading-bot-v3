@@ -1,8 +1,0 @@
----
-source: crates/background/src/faction_agent.rs
-expression: background.coins()
-
----
-- Gold
-- 15
-

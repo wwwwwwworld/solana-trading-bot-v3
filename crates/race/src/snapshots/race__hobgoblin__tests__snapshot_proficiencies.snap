@@ -1,7 +1,0 @@
----
-source: crates/race/src/hobgoblin.rs
-expression: hobgoblin.proficiencies()
-
----
-- Armor: Light
-

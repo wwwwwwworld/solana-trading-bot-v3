@@ -1,8 +1,0 @@
----
-source: crates/race/src/halfling.rs
-expression: hobgoblin.addl_pantheons()
-
----
-- - Halfling
-  - Likely
-

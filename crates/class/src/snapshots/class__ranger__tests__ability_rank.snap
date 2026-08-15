@@ -1,9 +1,0 @@
----
-source: crates/class/src/ranger.rs
-expression: "Ranger::ability_rank()"
-
----
-- - Dexterity
-  - Strength
-- - Wisdom
-

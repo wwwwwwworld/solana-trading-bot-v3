@@ -1,8 +1,0 @@
----
-source: crates/class/src/barbarian.rs
-expression: "Barbarian::ability_rank()"
-
----
-- - Strength
-- - Constitution
-

@@ -1,7 +1,0 @@
----
-source: crates/race/src/bugbear.rs
-expression: bugbear.proficiencies()
-
----
-- Skill: Stealth
-

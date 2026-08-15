@@ -1,8 +1,0 @@
----
-source: crates/background/src/courtier.rs
-expression: "Courtier::skills()"
-
----
-- Insight
-- Persuasion
-

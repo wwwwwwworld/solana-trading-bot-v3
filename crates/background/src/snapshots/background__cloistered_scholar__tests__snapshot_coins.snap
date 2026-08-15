@@ -1,8 +1,0 @@
----
-source: crates/background/src/cloistered_scholar.rs
-expression: background.coins()
-
----
-- Gold
-- 10
-
