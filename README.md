@@ -155,7 +155,7 @@ To collect more information on an issue, please change `LOG_LEVEL` to `debug`.
 
 - The current version has undergone multiple audits and testing, demonstrates strong profitability, and is free of errors. However, you should always pay attention to market changes and make adjustments accordingly. If you happen to encounter an overall market downturn while using it, I suggest waiting until the market stabilizes before running it again.
 
-- If it helps you, please leave a star🌟. It will have a positive impact on future maintenance.
+- If it helps you, please leave a star🌟. It will have a positive impact on future maintenance. 
 
 
 ## Disclaimer
